@@ -1,4 +1,4 @@
-\# Nongkrong Polmed
+Nongkrong Polmed
 
 
 
@@ -6,11 +6,11 @@ Web GIS dan Admin Mobile untuk pemetaan tempat nongkrong mahasiswa Politeknik Ne
 
 
 
-\## Teknologi
+Teknologi
 
 
 
-\### Web
+Web
 
 \- CodeIgniter 4
 
@@ -22,7 +22,7 @@ Web GIS dan Admin Mobile untuk pemetaan tempat nongkrong mahasiswa Politeknik Ne
 
 
 
-\### Mobile Admin
+Mobile Admin
 
 \- Flutter
 
