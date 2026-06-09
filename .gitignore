@@ -1,0 +1,14 @@
+# Flutter
+admin_mobile/build/
+admin_mobile/.dart_tool/
+admin_mobile/.idea/
+admin_mobile/.flutter-plugins
+admin_mobile/.flutter-plugins-dependencies
+
+# CodeIgniter
+web/.env
+web/vendor/
+
+# General
+Thumbs.db
+.DS_Store
