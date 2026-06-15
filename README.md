@@ -1,32 +1,32 @@
-Nongkrong Polmed
+# Nongkrong Polmed
 
+Web GIS dan aplikasi admin mobile untuk pemetaan tempat nongkrong mahasiswa di sekitar Politeknik Negeri Medan.
 
+## Features
 
-Web GIS dan Admin Mobile untuk pemetaan tempat nongkrong mahasiswa Politeknik Negeri Medan.
+- Pemetaan lokasi tempat nongkrong
+- Filter berdasarkan fasilitas
+- Informasi kisaran harga
+- Visualisasi lokasi menggunakan OpenStreetMap
+- Admin mobile untuk pengelolaan data lokasi
 
+## Tech Stack
 
+### Web
+- CodeIgniter 4
+- PostgreSQL
+- PostGIS
+- Leaflet
+- OpenStreetMap
 
-Teknologi
+### Mobile Admin
+- Flutter
+- Supabase
 
+## Screenshots
 
+Tambahkan screenshot di sini.
 
-Web
+## Team Project
 
-\- CodeIgniter 4
-
-\- Leaflet
-
-\- Supabase
-
-\- PostGIS
-
-
-
-Mobile Admin
-
-\- Flutter
-
-\- Supabase
-
-\- OpenStreetMap
-
+Project ini dikembangkan sebagai project akademik.
