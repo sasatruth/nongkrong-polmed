@@ -37,17 +37,17 @@ Web GIS dan aplikasi admin mobile untuk pemetaan tempat nongkrong mahasiswa di s
 ### Contact
 ![Contact](assets/screenshots/Contact.png)
 ### Login Admin
-![Login Admin](assets/screenshots/Login-Admin.png)
+![Login Admin](assets/screenshots/Login-Admin.jpeg)
 ### Admin Dashboard
-![Admin Dashboard](assets/screenshots/Admin-Dashboard.png)
+![Admin Dashboard](assets/screenshots/Admin-Dashboard.jpeg)
 ### List Category
-![List Category](assets/screenshots/List-Kategori.png)
+![List Category](assets/screenshots/List-Kategori.jpeg)
 ### List Tempat
-![List Tempat](assets/screenshots/List-Tempat.png)
+![List Tempat](assets/screenshots/List-Tempat.jpeg)
 ### Form Tambah Tempat
-![Form Tambah Tempat](assets/screenshots/Form-Tambah-Tempat.png)
+![Form Tambah Tempat](assets/screenshots/Form-Tambah-Tempat.jpeg)
 ### Map Admin
-![Map Admin](assets/screenshots/Map-Admin.png)
+![Map Admin](assets/screenshots/Map-Admin.jpeg)
 
 ## Team Project
 
